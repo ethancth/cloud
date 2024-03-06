@@ -1,0 +1,21 @@
+
+qjavascript:S3776"URefactor this function to reduce its Cognitive Complexity from 118 to the 15 allowed.(ˆè²Ô
+_javascript:S3358)"DExtract this nested ternary operation into an independent statement.(“Ñß|
+Zjavascript:S1121."9Extract the assignment of "animate" from this expression.(—ş«ùÿÿÿÿ
+ujavascript:S1172M"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(…†¸š
+zjavascript:S1172R"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(Î«°ñşÿÿÿÿ
+njavascript:S1848‘"QEither remove this useless object instantiation of "bootstrap.Tooltip" or use it.(ÇÉ‹Ş
+njavascript:S1848—"QEither remove this useless object instantiation of "bootstrap.Tooltip" or use it.(ÇÉ‹Ş
+njavascript:S1848"QEither remove this useless object instantiation of "bootstrap.Tooltip" or use it.(ÇÉ‹Ş
+~javascript:S1172®"aRemove the unused function parameter "event" or rename it to "_event" to make intention explicit.(˜°áŸ
+~javascript:S1172·"aRemove the unused function parameter "event" or rename it to "_event" to make intention explicit.(”ëÆª
+~javascript:S1172À"aRemove the unused function parameter "event" or rename it to "_event" to make intention explicit.(”ëÆª
+hjavascript:S1764Ğ"KCorrect one of the identical sub-expressions on both sides of operator "||"(ø…Àİ
+`javascript:S1481Ø">Remove the declaration of the unused 'accordionList' variable.(…ÖıĞÿÿÿÿÿ
+]javascript:S1854Ø";Remove this useless assignment to variable "accordionList".(…ÖıĞÿÿÿÿÿ
+~javascript:S1172ü"aRemove the unused function parameter "event" or rename it to "_event" to make intention explicit.(Æä‹«
+qjavascript:S3776Ã"TRefactor this function to reduce its Cognitive Complexity from 51 to the 15 allowed.(İ³¢„
+Vjavascript:S1135Ä"4Complete the task associated to this "TODO" comment.(½§ùşÿÿÿÿ
+Bjavascript:S2814‘" 'searchJson' is already defined.(üã¦Íøÿÿÿÿ
+‚javascript:S2392‘"`Consider moving declaration of 'searchJson' as it is referenced outside current binding context.(üã¦Íøÿÿÿÿ
+xjavascript:S1172"[Remove the unused function parameter "ev" or rename it to "_ev" to make intention explicit.(¥Ùáë

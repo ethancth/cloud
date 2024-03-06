@@ -1,0 +1,21 @@
+
+J	php:S1135€"4Complete the task associated to this "TODO" comment.(…ïœ†
+W	php:S1142©"<This method has 4 returns, which is more than the 3 allowed.(¿Œ’ºúÿÿÿÿ
+R	php:S1142¼"<This method has 4 returns, which is more than the 3 allowed.(³þ„ú
+j	php:S3776³"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ôàž
+j	php:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 92 to the 15 allowed.(ã÷ÕÖ
+\	php:S1763C"GDelete this unreachable code or refactor the code to make it reachable.(üé’­
+\	php:S1763G"GDelete this unreachable code or refactor the code to make it reachable.(ÛÁî÷
+D	php:S1481£".Remove this unused "$filename" local variable.(–×Ÿ³
+G	php:S1481",Remove this unused "$record" local variable.(”¿ ´ùÿÿÿÿ
+B	php:S1481æ",Remove this unused "$record" local variable.(êäú€
+D	php:S1481N"*Remove this unused "$data" local variable.(»µ“ ÿÿÿÿÿ
+I	php:S1481Ï".Remove this unused "$opf_item" local variable.(†ÕâÃúÿÿÿÿ
+J	php:S1066¸"/Merge this if statement with the enclosing one.(ò À¡øÿÿÿÿ
+E	php:S1066¿"/Merge this if statement with the enclosing one.(ˆò‡
+Kphp:S836X"2Review the data-flow - use of uninitialized value.(˜Îððùÿÿÿÿ
+Q	php:S1854Õ";Remove this useless assignment to local variable '$search'.(òî–­
+Jphp:S121Â"0Add curly braces around the nested statement(s).(˜²Ü°úÿÿÿÿ
+Jphp:S121Å"0Add curly braces around the nested statement(s).(³ÊÐ½øÿÿÿÿ
+Šphp:S138³"uThis function "index" has 210 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Ôàž
+Šphp:S138Ì"uThis function "store" has 272 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ã÷ÕÖ

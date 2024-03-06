@@ -1,0 +1,11 @@
+
+n	php:S3776
+"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(ÛŞ˜Èÿÿÿÿÿ
+=	php:S1125x"(Remove the literal "true" boolean value.(²Ôº¯
+C	php:S1125Š"(Remove the literal "true" boolean value.(ÆÇŠúÿÿÿÿ
+C	php:S1125"(Remove the literal "true" boolean value.(Ğ”œóûÿÿÿÿ
+C	php:S1125•"(Remove the literal "true" boolean value.(ıêûâøÿÿÿÿ
+C	php:S1125š"(Remove the literal "true" boolean value.(å°Ûşÿÿÿÿ
+>	php:S1125£"(Remove the literal "true" boolean value.(¡ì¦í
+C	php:S1125ª"(Remove the literal "true" boolean value.(„öÑŠüÿÿÿÿ
+J	php:S1066·"/Merge this if statement with the enclosing one.(é¯§úÿÿÿÿ

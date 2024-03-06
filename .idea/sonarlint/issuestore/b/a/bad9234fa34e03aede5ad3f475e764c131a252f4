@@ -1,0 +1,61 @@
+
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 83 to the 15 allowed.(İ³¢„
+yjavascript:S2392)"]Consider moving declaration of 'dt_user' as it is referenced outside current binding context.(å¡ı×
+{javascript:S1172="_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+{javascript:S1172="_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+{javascript:S1172="_Remove the unused function parameter "full" or rename it to "_full" to make intention explicit.(ÊÑß¼
+{javascript:S1172="_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+{javascript:S1172E"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+{javascript:S1172E"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+{javascript:S1172E"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+yjavascript:S2392K"]Consider moving declaration of '$output' as it is referenced outside current binding context.(â¦ÂÜ
+7javascript:S2814R"'$name' is already defined.(íˆ‹Ä
+wjavascript:S2392R"[Consider moving declaration of '$name' as it is referenced outside current binding context.(íˆ‹Ä
+javascript:S1488Y"cImmediately return this expression instead of assigning it to the temporary variable "$row_output".(Ü„ØÊ
+{javascript:S1172p"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+{javascript:S1172p"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+{javascript:S1172p"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+|javascript:S1172„"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172„"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172„"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+|javascript:S1172"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ÿ"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ÿ"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ÿ"_Remove the unused function parameter "full" or rename it to "_full" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ÿ"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+…javascript:S1172Î"cRemove the unused function parameter "coldex" or rename it to "_coldex" to make intention explicit.(à£Èåûÿÿÿÿ
+…javascript:S1172Î"cRemove the unused function parameter "rowdex" or rename it to "_rowdex" to make intention explicit.(à£Èåûÿÿÿÿ
+~javascript:S1172Ò"aRemove the unused function parameter "index" or rename it to "_index" to make intention explicit.(Éî½ì
+zjavascript:S4144ó"XUpdate this function so that its implementation is not identical to the one on line 206.(à£Èåûÿÿÿÿ
+…javascript:S1172ó"cRemove the unused function parameter "coldex" or rename it to "_coldex" to make intention explicit.(à£Èåûÿÿÿÿ
+…javascript:S1172ó"cRemove the unused function parameter "rowdex" or rename it to "_rowdex" to make intention explicit.(à£Èåûÿÿÿÿ
+ujavascript:S4144÷"XUpdate this function so that its implementation is not identical to the one on line 210.(Éî½ì
+~javascript:S1172÷"aRemove the unused function parameter "index" or rename it to "_index" to make intention explicit.(Éî½ì
+zjavascript:S4144‹"XUpdate this function so that its implementation is not identical to the one on line 206.(à£Èåûÿÿÿÿ
+…javascript:S1172‹"cRemove the unused function parameter "coldex" or rename it to "_coldex" to make intention explicit.(à£Èåûÿÿÿÿ
+…javascript:S1172‹"cRemove the unused function parameter "rowdex" or rename it to "_rowdex" to make intention explicit.(à£Èåûÿÿÿÿ
+ujavascript:S4144"XUpdate this function so that its implementation is not identical to the one on line 210.(Éî½ì
+~javascript:S1172"aRemove the unused function parameter "index" or rename it to "_index" to make intention explicit.(Éî½ì
+zjavascript:S4144£"XUpdate this function so that its implementation is not identical to the one on line 206.(à£Èåûÿÿÿÿ
+…javascript:S1172£"cRemove the unused function parameter "coldex" or rename it to "_coldex" to make intention explicit.(à£Èåûÿÿÿÿ
+…javascript:S1172£"cRemove the unused function parameter "rowdex" or rename it to "_rowdex" to make intention explicit.(à£Èåûÿÿÿÿ
+ujavascript:S4144§"XUpdate this function so that its implementation is not identical to the one on line 210.(Éî½ì
+~javascript:S1172§"aRemove the unused function parameter "index" or rename it to "_index" to make intention explicit.(Éî½ì
+zjavascript:S4144»"XUpdate this function so that its implementation is not identical to the one on line 206.(à£Èåûÿÿÿÿ
+…javascript:S1172»"cRemove the unused function parameter "coldex" or rename it to "_coldex" to make intention explicit.(à£Èåûÿÿÿÿ
+…javascript:S1172»"cRemove the unused function parameter "rowdex" or rename it to "_rowdex" to make intention explicit.(à£Èåûÿÿÿÿ
+ujavascript:S4144¿"XUpdate this function so that its implementation is not identical to the one on line 210.(Éî½ì
+~javascript:S1172¿"aRemove the unused function parameter "index" or rename it to "_index" to make intention explicit.(Éî½ì
+zjavascript:S1172à"]Remove the unused function parameter "api" or rename it to "_api" to make intention explicit.(¬ŸÀ®
+€javascript:S1172à"cRemove the unused function parameter "rowIdx" or rename it to "_rowIdx" to make intention explicit.(¬ŸÀ®
+{javascript:S1172á"YRemove the unused function parameter "i" or rename it to "_i" to make intention explicit.(¨øÒªúÿÿÿÿ
+vjavascript:S1172Š"YRemove the unused function parameter "j" or rename it to "_j" to make intention explicit.(ÏğÁÚ
+vjavascript:S1172 "YRemove the unused function parameter "j" or rename it to "_j" to make intention explicit.(ÏğÁÚ
+vjavascript:S1172¶"YRemove the unused function parameter "j" or rename it to "_j" to make intention explicit.(ÏğÁÚ
+cjavascript:S1848Ù"FEither remove this useless object instantiation of "Cleave" or use it.(«Û‚Î
+Ujavascript:S1481à"3Remove the declaration of the unused 'fv' variable.(ú¬¹’ıÿÿÿÿ
+Rjavascript:S1854à"0Remove this useless assignment to variable "fv".(ú¬¹’ıÿÿÿÿ
+ƒjavascript:S1172ù"aRemove the unused function parameter "field" or rename it to "_field" to make intention explicit.(Æ¿Šáÿÿÿÿÿ
+javascript:S1172ù"]Remove the unused function parameter "ele" or rename it to "_ele" to make intention explicit.(Æ¿Šáÿÿÿÿÿ

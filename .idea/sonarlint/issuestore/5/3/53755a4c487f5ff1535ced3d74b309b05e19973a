@@ -1,0 +1,30 @@
+
+pjavascript:S3776	"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(ˆè²Ô
+~javascript:S11729"]Remove the unused function parameter "opt" or rename it to "_opt" to make intention explicit.(è˜¡Ôþÿÿÿÿ
+ujavascript:S1172a"YRemove the unused function parameter "w" or rename it to "_w" to make intention explicit.(à¡›¾
+zjavascript:S1172¦"]Remove the unused function parameter "val" or rename it to "_val" to make intention explicit.(ðÐÚŸ
+{javascript:S1172Ù"YRemove the unused function parameter "w" or rename it to "_w" to make intention explicit.(©Þ…‚øÿÿÿÿ
+‹javascript:S1488ê"iImmediately return this expression instead of assigning it to the temporary variable "radialBarChartOpt".(ªúÝîÿÿÿÿÿ
+|javascript:S2392°"_Consider moving declaration of 'dt_course' as it is referenced outside current binding context.(Ò˜‰‡
+|javascript:S1172Ã"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ã"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ã"_Remove the unused function parameter "full" or rename it to "_full" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ã"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+=javascript:S1534Ð"Duplicate key 'checkboxes'.(½ßÓüÿÿÿÿÿ
+|javascript:S1172Ø"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ø"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ø"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+zjavascript:S2392ß"]Consider moving declaration of '$output' as it is referenced outside current binding context.(â¦ÂÜ
+…javascript:S1488í"cImmediately return this expression instead of assigning it to the temporary variable "$row_output".(¦ÿÉ†ùÿÿÿÿ
+|javascript:S1172‰"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172‰"_Remove the unused function parameter "full" or rename it to "_full" to make intention explicit.(ÊÑß¼
+|javascript:S1172‰"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+|javascript:S1172”"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172”"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172”"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+|javascript:S1172­"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172­"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172­"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+zjavascript:S1172ß"]Remove the unused function parameter "api" or rename it to "_api" to make intention explicit.(¬ŸÀ®
+€javascript:S1172ß"cRemove the unused function parameter "rowIdx" or rename it to "_rowIdx" to make intention explicit.(¬ŸÀ®
+{javascript:S1172à"YRemove the unused function parameter "i" or rename it to "_i" to make intention explicit.(¨øÒªúÿÿÿÿ

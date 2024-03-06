@@ -1,0 +1,23 @@
+
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(ˆè²Ô
+ajavascript:S1481"@Remove the declaration of the unused 'myDropzoneMulti' variable.(İ‚½ñûÿÿÿÿ
+^javascript:S1854"=Remove this useless assignment to variable "myDropzoneMulti".(İ‚½ñûÿÿÿÿ
+{javascript:S11722"_Remove the unused function parameter "file" or rename it to "_file" to make intention explicit.(ô£ú
+€javascript:S11726"_Remove the unused function parameter "file" or rename it to "_file" to make intention explicit.(…¦Œáÿÿÿÿÿ
+Tjavascript:S1481B"8Remove the declaration of the unused 'current' variable.(¿÷¨
+Qjavascript:S1854B"5Remove this useless assignment to variable "current".(¿÷¨
+Hjavascript:S1125U"'Remove the unnecessary boolean literal.(€È†íùÿÿÿÿ
+javascript:S2703k"`Add the "let", "const" or "var" keyword to this declaration of "errorsHtml" to make it explicit.(ñç†şÿÿÿÿ
+~javascript:S1172o"]Remove the unused function parameter "key" or rename it to "_key" to make intention explicit.(ËˆÔøÿÿÿÿ
+}javascript:S1172p"aRemove the unused function parameter "index" or rename it to "_index" to make intention explicit.(ğã‹
+Jjavascript:S1117p".'data' is already declared in the upper scope.(ğã‹
+yjavascript:S1172v"]Remove the unused function parameter "key" or rename it to "_key" to make intention explicit.(«íÂÉ
+@javascript:S125ƒ"Remove this commented out code.(Ä‚ßıÿÿÿÿÿ
+javascript:S1172"_Remove the unused function parameter "file" or rename it to "_file" to make intention explicit.(Â×ü¬şÿÿÿÿ
+javascript:S1172"]Remove the unused function parameter "xhr" or rename it to "_xhr" to make intention explicit.(Â×ü¬şÿÿÿÿ
+|javascript:S1172“"_Remove the unused function parameter "file" or rename it to "_file" to make intention explicit.(—ŞŠù
+zjavascript:S1172“"]Remove the unused function parameter "xhr" or rename it to "_xhr" to make intention explicit.(—ŞŠù
+}javascript:S1172›"aRemove the unused function parameter "files" or rename it to "_files" to make intention explicit.(·ãÕp
+ƒjavascript:S1172›"gRemove the unused function parameter "response" or rename it to "_response" to make intention explicit.(·ãÕp
+ƒjavascript:S1172Ÿ"aRemove the unused function parameter "files" or rename it to "_files" to make intention explicit.(ß»èøùÿÿÿÿ
+‰javascript:S1172Ÿ"gRemove the unused function parameter "response" or rename it to "_response" to make intention explicit.(ß»èøùÿÿÿÿ

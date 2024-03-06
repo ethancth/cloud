@@ -1,0 +1,31 @@
+
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(Ý³¢„
+†javascript:S1172"eRemove the unused function parameter "dateStr" or rename it to "_dateStr" to make intention explicit.(àÈ„ùýÿÿÿÿ
+ˆjavascript:S1172"gRemove the unused function parameter "instance" or rename it to "_instance" to make intention explicit.(àÈ„ùýÿÿÿÿ
+Šjavascript:S1172C"iRemove the unused function parameter "oSettings" or rename it to "_oSettings" to make intention explicit.(£›½ùÿÿÿÿÿ
+Œjavascript:S1172C"kRemove the unused function parameter "iDataIndex" or rename it to "_iDataIndex" to make intention explicit.(£›½ùÿÿÿÿÿ
+~javascript:S1488Y"bImmediately return this expression instead of assigning it to the temporary variable "normalized".(þççº
+Yjavascript:S1481b"8Remove the declaration of the unused 'dt_ajax' variable.(þ»îüÿÿÿÿ
+Vjavascript:S1854b"5Remove this useless assignment to variable "dt_ajax".(þ»îüÿÿÿÿ
+`javascript:S1481Ž">Remove the declaration of the unused 'dt_adv_filter' variable.(±þÕíùÿÿÿÿ
+]javascript:S1854Ž";Remove this useless assignment to variable "dt_adv_filter".(±þÕíùÿÿÿÿ
+|javascript:S1172 "_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172 "_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172 "_Remove the unused function parameter "full" or rename it to "_full" to make intention explicit.(ÊÑß¼
+|javascript:S1172 "_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+zjavascript:S1172¯"]Remove the unused function parameter "api" or rename it to "_api" to make intention explicit.(¬ŸÀ®
+€javascript:S1172¯"cRemove the unused function parameter "rowIdx" or rename it to "_rowIdx" to make intention explicit.(¬ŸÀ®
+{javascript:S1172°"YRemove the unused function parameter "i" or rename it to "_i" to make intention explicit.(¨øÒªúÿÿÿÿ
+[javascript:S1481Ò">Remove the declaration of the unused 'dt_responsive' variable.(ü»¥¨
+Xjavascript:S1854Ò";Remove this useless assignment to variable "dt_responsive".(ü»¥¨
+|javascript:S1172æ"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172æ"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172æ"_Remove the unused function parameter "full" or rename it to "_full" to make intention explicit.(ÊÑß¼
+|javascript:S1172æ"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+|javascript:S1172í"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172í"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+ujavascript:S4144‹"XUpdate this function so that its implementation is not identical to the one on line 175.(¬ŸÀ®
+zjavascript:S1172‹"]Remove the unused function parameter "api" or rename it to "_api" to make intention explicit.(¬ŸÀ®
+€javascript:S1172‹"cRemove the unused function parameter "rowIdx" or rename it to "_rowIdx" to make intention explicit.(¬ŸÀ®
+zjavascript:S4144Œ"XUpdate this function so that its implementation is not identical to the one on line 176.(¨øÒªúÿÿÿÿ
+{javascript:S1172Œ"YRemove the unused function parameter "i" or rename it to "_i" to make intention explicit.(¨øÒªúÿÿÿÿ

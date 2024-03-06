@@ -1,0 +1,45 @@
+{
+  "menu": [
+
+    {
+      "icon": "menu-icon tf-icons ti ti-layout-grid",
+      "url": "app/opf/list",
+      "name": "OPF Module",
+      "slug": "app-opf-list"
+    },
+    {
+      "menuHeader": "Third Party  "
+    },
+    {
+      "icon": "menu-icon tf-icons ti ti-book",
+      "url": "company-management",
+      "name": "Company",
+      "slug": "company-management"
+    },
+    {
+      "icon": "menu-icon tf-icons ti ti-book",
+      "url": "person-in-charge-management",
+      "name": "PIC",
+      "slug": "person-in-charge-management"
+    },
+    {
+      "icon": "menu-icon tf-icons ti ti-baseline-density-small",
+      "url": "item-inventory-management",
+      "name": "Item",
+      "slug": "item-inventory-management"
+    },
+
+    {
+      "icon": "menu-icon tf-icons ti ti-truck",
+      "url": "supplier-management",
+      "name": "Supplier",
+      "slug": "supplier-management"
+    },
+    {
+      "icon": "menu-icon tf-icons ti ti-currency-dollar",
+      "url": "currency-management",
+      "name": "Currency",
+      "slug": "currency-management"
+    }
+  ]
+}

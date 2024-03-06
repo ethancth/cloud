@@ -1,0 +1,48 @@
+
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(İ³¢„
+\javascript:S1481";Remove the declaration of the unused 'dt_project' variable.(Ôôæùÿÿÿÿ
+Yjavascript:S1854"8Remove this useless assignment to variable "dt_project".(Ôôæùÿÿÿÿ
+{javascript:S1172!"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+{javascript:S1172!"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+{javascript:S1172!"_Remove the unused function parameter "full" or rename it to "_full" to make intention explicit.(ÊÑß¼
+{javascript:S1172!"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+{javascript:S1172*"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+{javascript:S1172*"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+{javascript:S1172*"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+yjavascript:S23920"]Consider moving declaration of '$output' as it is referenced outside current binding context.(â¦ÂÜ
+7javascript:S2814;"'$name' is already defined.(íˆ‹Ä
+wjavascript:S2392;"[Consider moving declaration of '$name' as it is referenced outside current binding context.(íˆ‹Ä
+„javascript:S1488B"cImmediately return this expression instead of assigning it to the temporary variable "$row_output".(æ¸„¯øÿÿÿÿ
+{javascript:S1172\"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+{javascript:S1172\"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+{javascript:S1172\"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+zjavascript:S1172"]Remove the unused function parameter "api" or rename it to "_api" to make intention explicit.(¬ŸÀ®
+€javascript:S1172"cRemove the unused function parameter "rowIdx" or rename it to "_rowIdx" to make intention explicit.(¬ŸÀ®
+{javascript:S1172Ÿ"YRemove the unused function parameter "i" or rename it to "_i" to make intention explicit.(¨øÒªúÿÿÿÿ
+Wjavascript:S1481»";Remove the declaration of the unused 'dt_invoice' variable.(¨üÌa
+Tjavascript:S1854»"8Remove this useless assignment to variable "dt_invoice".(¨üÌa
+|javascript:S1172Ì"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ì"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ì"_Remove the unused function parameter "full" or rename it to "_full" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ì"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ó"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ó"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172Ó"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+€javascript:S1488Ö"cImmediately return this expression instead of assigning it to the temporary variable "$row_output".(å²ËÆ
+|javascript:S1172İ"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172İ"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172İ"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+|javascript:S1172ı"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172ı"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172ı"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+|javascript:S1172‡"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÊÑß¼
+|javascript:S1172‡"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(ÊÑß¼
+|javascript:S1172‡"_Remove the unused function parameter "full" or rename it to "_full" to make intention explicit.(ÊÑß¼
+|javascript:S1172‡"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(ÊÑß¼
+ujavascript:S4144İ"XUpdate this function so that its implementation is not identical to the one on line 158.(¬ŸÀ®
+zjavascript:S1172İ"]Remove the unused function parameter "api" or rename it to "_api" to make intention explicit.(¬ŸÀ®
+€javascript:S1172İ"cRemove the unused function parameter "rowIdx" or rename it to "_rowIdx" to make intention explicit.(¬ŸÀ®
+zjavascript:S4144Ş"XUpdate this function so that its implementation is not identical to the one on line 159.(¨øÒªúÿÿÿÿ
+{javascript:S1172Ş"YRemove the unused function parameter "i" or rename it to "_i" to make intention explicit.(¨øÒªúÿÿÿÿ
+^javascript:S1481ù"<Remove the declaration of the unused 'tooltipList' variable.(¤ğ¸ùÿÿÿÿ
+[javascript:S1854ù"9Remove this useless assignment to variable "tooltipList".(¤ğ¸ùÿÿÿÿ

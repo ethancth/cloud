@@ -1,0 +1,13 @@
+
+|javascript:S11722"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(…ÜÏ¸8û’¬©¿1
+wjavascript:S37763"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ˆè²Ô8ü’¬©¿1
+†javascript:S1172Ø"]Remove the unused function parameter "ele" or rename it to "_ele" to make intention explicit.(Æ¿Šáÿÿÿÿÿ8ü’¬©¿1
+Tjavascript:S1117ù"+'e' is already declared in the upper scope.(õ˜Àíúÿÿÿÿ8ü’¬©¿1
+‚javascript:S1172º"YRemove the unused function parameter "i" or rename it to "_i" to make intention explicit.(ë „›ùÿÿÿÿ8ü’¬©¿1
+mjavascript:S1481Ü"IRemove the declaration of the unused 'formValidationLangTagify' variable.(­”úÀ8ü’¬©¿1
+jjavascript:S1854Ü"FRemove this useless assignment to variable "formValidationLangTagify".(­”úÀ8ü’¬©¿1
+}javascript:S1172ã"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(¬ãÉÕ8ü’¬©¿1
+Ojavascript:S1117ã"+'e' is already declared in the upper scope.(¬ãÉÕ8ü’¬©¿1
+“javascript:S1172ã"oRemove the unused function parameter "clickedIndex" or rename it to "_clickedIndex" to make intention explicit.(¬ãÉÕ8ı’¬©¿1
+javascript:S1172ã"kRemove the unused function parameter "isSelected" or rename it to "_isSelected" to make intention explicit.(¬ãÉÕ8ı’¬©¿1
+•javascript:S1172ã"qRemove the unused function parameter "previousValue" or rename it to "_previousValue" to make intention explicit.(¬ãÉÕ8ı’¬©¿1
